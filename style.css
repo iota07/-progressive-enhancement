@@ -1,0 +1,28 @@
+p {
+    font-family: "Times New Roman";
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-size: 20px;
+    color: #080554;
+	
+}
+
+a[href] {
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+
+a[href]:hover {
+    color: #aface3;
+    font-size: 21px;
+}
+
+a[href]:visited {
+    color: #bd04b7;
+}
+
+a[href]:hover:visited {
+    color: #aface3;
+    font-size: 21px;
+}
