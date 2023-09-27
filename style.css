@@ -88,21 +88,21 @@ tr:nth-child(even) {
 }
 
 li:first-child {
-    background-image: url("bien.png");
+    background-image: url("img/bien.png");
     padding: 20px;
     background-position: 25% center;
     background-repeat: no-repeat;
 }
 
 li:nth-child(2) {
-    background-image: url("mal.png");
+    background-image: url("img/mal.png");
     padding: 20px;
     background-position: 25% center;
     background-repeat: no-repeat;
 }
 
 li:nth-child(3) {
-    background-image: url("chat.png");
+    background-image: url("img/chat.png");
     padding: 20px;
     background-position: 25% center;
     background-repeat: no-repeat;
